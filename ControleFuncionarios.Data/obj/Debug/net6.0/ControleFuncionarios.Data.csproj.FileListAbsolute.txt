@@ -1,0 +1,24 @@
+D:\Curso C#\ControleFuncionarios.Data\bin\Debug\net6.0\ControleFuncionarios.Data.deps.json
+D:\Curso C#\ControleFuncionarios.Data\bin\Debug\net6.0\ControleFuncionarios.Data.dll
+D:\Curso C#\ControleFuncionarios.Data\bin\Debug\net6.0\ControleFuncionarios.Data.pdb
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.csproj.AssemblyReference.cache
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.AssemblyInfoInputs.cache
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.AssemblyInfo.cs
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.csproj.CoreCompileInputs.cache
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.dll
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\refint\ControleFuncionarios.Data.dll
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.pdb
+D:\Curso C#\ControleFuncionarios.Data\obj\Debug\net6.0\ref\ControleFuncionarios.Data.dll
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\bin\Debug\net6.0\ControleFuncionarios.Data.deps.json
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\bin\Debug\net6.0\ControleFuncionarios.Data.dll
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\bin\Debug\net6.0\ControleFuncionarios.Data.pdb
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.csproj.AssemblyReference.cache
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.AssemblyInfoInputs.cache
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.AssemblyInfo.cs
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.csproj.CoreCompileInputs.cache
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.dll
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\refint\ControleFuncionarios.Data.dll
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\ControleFuncionarios.Data.pdb
+D:\Estudos\ControleFuncionarios\ControleFuncionarios.Data\obj\Debug\net6.0\ref\ControleFuncionarios.Data.dll
