@@ -1,0 +1,39 @@
+<div class="card">
+  <div class="card-body">
+    <h5 class="card-title">Consulta de Funcionários</h5>
+    <p class="card-text">Listagem de funcionários cadastrados</p>
+    <hr />
+
+    <table class="table table-sm table-hover">
+      <thead>
+        <tr>
+          <th>Nome do funcionário</th>
+          <th>CPF</th>
+          <th>Matrícula</th>
+          <th>Data de Admissão</th>
+          <th>Operações</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let f of funcionarios">
+          <td>{{f.nome}}</td>
+          <td>{{f.cpf | mask : '000.000.000-00'}}</td>
+          <td>{{f.matricula | mask : '0000-000'}}</td>
+          <td>{{f.dataAdmissao | date : 'dd/MM/yyyy'}}</td>
+          <td>
+            <button class="btn btn-outline-primary btn-sm"
+            [routerLink]="['/edicao-funcionarios', f.idFuncionario]">
+            Editar</button>
+            &nbsp;
+            <button class="btn btn-outline-danger btn-sm" (click)="onDelete(f.idFuncionario)">Excluir</button>
+          </td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="5">Quantidade de funcionários: {{funcionarios.length}}</td>
+        </tr>
+      </tfoot>
+    </table>
+  </div>
+</div>
